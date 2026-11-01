@@ -8,7 +8,7 @@ export const businessInfo = {
     { fr: 'Grand Montréal', en: 'Greater Montreal Area' },
   ],
   emergencyAvailability: '24/7',
-  emergencyAvailabilityConfirmed: false,
+  emergencyAvailabilityConfirmed: true,
   emergencyResponseTime: { confirmed: false, fr: '', en: '' },
   licensingAndInsurance: { confirmed: false, fr: '', en: '' },
   experienceAndQualifications: { confirmed: false, fr: '', en: '' },
