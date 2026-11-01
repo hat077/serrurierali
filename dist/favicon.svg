@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 60">
+  <path d="M26 3 47 11v17c0 13-8.3 22.8-21 29C13.3 50.8 5 41 5 28V11L26 3Z" fill="#14283F" stroke="#D5A64A" stroke-width="2"/>
+  <path d="M26 8 42 14v14c0 10.1-6.1 18.1-16 23.4C16.1 46.1 10 38.1 10 28V14l16-6Z" fill="none" stroke="#D5A64A" stroke-opacity=".6"/>
+  <text x="26" y="34" text-anchor="middle" fill="#D5A64A" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="-1">SA</text>
+</svg>

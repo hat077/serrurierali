@@ -1,0 +1,24 @@
+// Edit business details and section visibility here.
+export const businessInfo = {
+  name: 'Serrurier Ali',
+  phoneDisplay: '+1 (514) 730-5763',
+  phoneHref: 'tel:+15147305763',
+  email: 'Serrurierali1@gmail.com',
+  serviceAreas: [],
+  emergencyAvailability: '24/7',
+  emergencyAvailabilityConfirmed: false,
+  emergencyResponseTime: { confirmed: false, fr: '', en: '' },
+  licensingAndInsurance: { confirmed: false, fr: '', en: '' },
+  experienceAndQualifications: { confirmed: false, fr: '', en: '' },
+  features: {
+    emergencySection: true,
+    services: true,
+    serviceArea: false,
+  },
+  heroImage:
+    'https://static.wixstatic.com/media/6d99ed_8c39c3d9dbf64ba289b676b5679f23ae~mv2.webp/v1/fill/w_889%2Ch_500%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Commercial%20locksmith%20delray%20beach.webp?utm_source=chatgpt.com',
+  metaDescriptionFr:
+    'Serrurier Ali propose des services de serrurerie pour vos portes, serrures et clés. Contactez-nous pour discuter de votre besoin.',
+  metaDescriptionEn:
+    'Serrurier Ali provides locksmith services for your doors, locks, and keys. Contact us to discuss your needs.',
+};
