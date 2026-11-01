@@ -5,6 +5,9 @@
 - `npm install` installs dependencies.
 - `npm run dev` starts the local development server.
 - `npm run build` checks and builds the production site.
+- `npm run preview` serves the production build locally.
+
+The Vite scripts call Vite through Node directly rather than the generated `.bin` launcher, avoiding executable-permission issues on deployment systems. Vite 8 requires Node.js 20.19+ or 22.12+.
 
 ## Where to make edits
 
