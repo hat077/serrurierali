@@ -4,7 +4,9 @@ export const businessInfo = {
   phoneDisplay: '+1 (514) 730-5763',
   phoneHref: 'tel:+15147305763',
   email: 'Serrurierali1@gmail.com',
-  serviceAreas: [],
+  serviceAreas: [
+    { fr: 'Grand Montréal', en: 'Greater Montreal Area' },
+  ],
   emergencyAvailability: '24/7',
   emergencyAvailabilityConfirmed: false,
   emergencyResponseTime: { confirmed: false, fr: '', en: '' },
@@ -13,7 +15,7 @@ export const businessInfo = {
   features: {
     emergencySection: true,
     services: true,
-    serviceArea: false,
+    serviceArea: true,
   },
   heroImage:
     'https://static.wixstatic.com/media/6d99ed_8c39c3d9dbf64ba289b676b5679f23ae~mv2.webp/v1/fill/w_889%2Ch_500%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Commercial%20locksmith%20delray%20beach.webp?utm_source=chatgpt.com',
